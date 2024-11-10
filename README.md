@@ -20,7 +20,7 @@ Effortless Website Creation: No need for manual coding or design – just provid
 ## How It Works
 
 Input: Provide the business name, specific instructions, or smart contract code.
-AI Generation: The AI, powered by GPT-3, analyzes the input and generates the necessary HTML, CSS, and JavaScript code.
+AI Generation: The AI, powered by GPT-4, analyzes the input and generates the necessary HTML, CSS, and JavaScript code.
 Responsive Output: The code is designed to be responsive, compatible with all modern browsers and adaptable to various devices.
 Dynamic Elements: The websites include animations and interactive components powered by GSAP and Framer Motion
 
